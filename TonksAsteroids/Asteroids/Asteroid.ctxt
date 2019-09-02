@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x1\ y1
+comment0.target=Asteroid(int,\ int)
+comment1.params=
+comment1.target=void\ move()
+comment2.params=gr
+comment2.target=void\ drawA(java.awt.Graphics2D)
+numComments=3

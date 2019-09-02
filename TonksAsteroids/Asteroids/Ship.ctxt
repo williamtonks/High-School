@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Ship(int,\ int)
+comment1.params=g
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment2.params=amt
+comment2.target=void\ turn(double)
+comment3.params=
+comment3.target=void\ goForward()
+comment4.params=
+comment4.target=void\ go()
+numComments=5
