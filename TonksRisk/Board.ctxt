@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=Board()
-comment1.params=g2\ color\ p\ a\ t\ aX1\ aY1\ dX\ dY
-comment1.target=void\ drawBoard(java.awt.Graphics2D,\ java.awt.Color,\ boolean,\ boolean,\ boolean,\ int,\ int,\ int,\ int)
-comment2.params=
-comment2.target=Continent[]\ getContinents()
-numComments=3
