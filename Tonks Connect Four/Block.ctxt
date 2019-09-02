@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=xDimension\ yDimension
+comment0.target=Block(int,\ int)
+comment1.params=gt
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment2.params=player
+comment2.target=void\ makeVisible(int)
+comment3.params=p
+comment3.target=boolean\ isClicked(java.awt.Point)
+comment4.params=
+comment4.target=boolean\ Gravity()
+numComments=5

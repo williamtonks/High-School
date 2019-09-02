@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=player\ xSpot\ ySpot
+comment0.target=Dot(int,\ int,\ int)
+comment1.params=gt
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment2.params=p
+comment2.target=void\ makeVisible(int)
+comment3.params=
+comment3.target=boolean\ Gravity()
+numComments=4
