@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Asia()
+comment1.params=
+comment1.target=Territory[]\ getTerritories()
+comment2.params=
+comment2.target=int\ getNumTerritories()
+comment3.params=
+comment3.target=int\ getBonusTroops()
+comment4.params=player
+comment4.target=boolean\ controls(int)
+numComments=5

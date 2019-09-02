@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Ringos(int,\ int)
+comment1.params=g2
+comment1.target=void\ drawR(java.awt.Graphics2D)
+comment2.params=
+comment2.target=void\ moveR()
+comment3.params=
+comment3.target=java.awt.Rectangle\ getRect()
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=void\ reset()
+numComments=6
