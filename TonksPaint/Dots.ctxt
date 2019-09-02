@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=xP\ yP
+comment0.target=Dots(int,\ int)
+comment1.params=g2
+comment1.target=void\ myPaints(java.awt.Graphics2D)
+numComments=2
