@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Segments()
+comment1.params=it1\ it2\ it3\ it4
+comment1.target=Segments(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=g2
+comment3.target=void\ paint(java.awt.Graphics2D)
+comment4.params=a
+comment4.target=void\ turn(int)
+comment5.params=a
+comment5.target=int\ aTurn(int)
+comment6.params=
+comment6.target=int\ getX()
+comment7.params=
+comment7.target=int\ getY()
+comment8.params=
+comment8.target=int\ getxVel()
+comment9.params=
+comment9.target=int\ getyVel()
+numComments=10
